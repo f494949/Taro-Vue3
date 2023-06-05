@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<el-button type="primary" size="default" :icon="Plus">主要按钮</el-button>
-		<el-button type="success" size="small" :icon="Edit">主要按钮</el-button>
+		<el-button type="success" size="s" :icon="Edit">主要按钮</el-button>
 		
 		
 	</div>
